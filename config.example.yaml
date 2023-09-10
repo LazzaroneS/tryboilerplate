@@ -1,0 +1,5 @@
+db:
+  # driver: "sqlite3"
+  # datasource: "database.db"
+  driver: "postgres"
+  datasource: "user=foo dbname=bar host=localhost password=foobar sslmode=disable"
